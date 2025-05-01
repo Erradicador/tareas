@@ -1,0 +1,11 @@
+*~
+*#
+node_modules/
+testbed/
+voter.*
+package-lock.json
+src/example*.js
+src/evoting.js
+*.log
+*.yaml
+*.lock
